@@ -1,0 +1,7 @@
+barterSystem user stories
+
+no1. as a buyer we should be able to login to the app and should be able to search for the product to buy.
+
+no2. as a seller i should be able to login then we shound be able to put our product for sale.
+
+
